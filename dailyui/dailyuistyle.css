@@ -1,0 +1,198 @@
+body{
+    background-color: white;
+    font-family: 'Inter', sans-serif;
+    
+}
+
+.header{
+    color: #1864FF;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: -0.025rem;
+    width: 100%;
+    font-size: 1.875em;
+    line-height: 1;
+    font-weight: 700;
+    padding: 80px;
+    padding-bottom: 0;
+    padding-top: 15px;
+    
+   
+}
+.ui{
+    width: 500px;
+    padding: 80px;
+    padding-right: 0;
+    padding-top: 40px;
+}
+.shams{
+    float: right;
+    margin-right: 25px;
+    border: 10%;
+    margin-top: 0;
+
+}
+.be{ 
+    color: #fea9a4;
+    font-size: 70px;
+    line-height: 0;
+    text-align: center;
+    font-weight: bold;
+    word-spacing: 0;
+
+}
+.be1{ 
+    color: #1864FF;
+    font-size: 90px;
+    line-height: 0;
+    text-align: center;
+    font-weight: bold;
+    word-spacing: 0;
+    
+
+}
+.be2{ 
+    color: #fea9a4;
+    font-size: 70px;
+    line-height: 0;
+    text-align: center;
+    font-weight: bold;
+    line-height: 0;
+    text-align: center;
+    word-spacing: 0;
+}
+.bebe{
+    margin-left: 50px;
+}
+.be3{
+    font-size: 19px;
+    width: 440px;
+    line-height:2em;
+    text-align: center;
+    padding-left: 50px;
+}
+.eml{
+    border: 1px solid #1864FF;
+    padding: 15px 20px;
+    border-radius: 8px;
+    font-size: 17px;
+    margin-left: 50px;
+    text-align: center;
+}
+.hehe{
+    margin-left: 80px;
+    padding: 2px;
+}
+a{
+    background-color: #1864FF;
+    padding: 15px 25px;
+    border-radius: 8px;
+    text-decoration: none;
+    color: white;
+    margin-bottom: 90px;
+    
+}
+a:hover{
+    background-color: #fea9a4;
+}
+.boast{
+    padding-top:  200px;
+    text-align: center;
+    padding-bottom: 400px;
+}
+.img{
+    padding-top: 8rem;
+    padding: 80px;
+    text-align: center;
+    align-items: center;
+}
+.bebe{
+    color: #1864FF;
+    font-size: 85px;
+    font-weight: bold;
+    line-height: 0;
+}
+.bebe1{
+    color: #fea9a4;
+    font-size: 80px;
+    font-weight: bold;
+    line-height: 0;
+}
+.bebe2{
+    color: #1864FF;
+    font-size: 75px;
+    font-weight: bold;
+    line-height: 0;
+}
+.descom{
+    text-align: center;
+    font-size: 80px;
+    font-weight: bold;
+    color: #1864FF;
+    line-height: 1.5;
+    
+   
+}
+.mid-sec{
+    padding-bottom: 0;
+}
+.spam{
+    padding-top: 8rem;
+    font-size: 50px;
+    font-weight: bold;
+    
+}
+.captures{
+    padding-top: 10rem;
+    display: inline-block;
+    padding: 9rem;
+    
+    
+}
+.captured{
+    padding: 150px;
+    padding-bottom: 0;
+    display: inline-block;
+    
+}
+.img-cap{
+    font-size: 30px;
+    color: #1864FF;
+}
+.shem{
+    width: 90%;
+    padding-top: 0;
+    text-align: center;
+    color: #1864FF;
+    font-family: 'Inter', sans-serif;
+    font-size: 3.75em;
+  
+    font-weight: 800;
+}
+.see{
+    font-size: 28px;
+    width: 60;
+    font-weight:initial;
+    text-align: center;
+}
+.free{
+    
+        font-size: 10px;
+     padding: 10px;
+        font-weight:initial;
+        text-align: center;
+    
+}
+.aclass{
+    font-size: 19px;
+    padding: 9px;
+}
+.textu{
+    border: 1px solid #1864FF;
+    padding: 15px 15px;
+    border-radius: 8px;
+    font-size: 17px;
+    margin-left: 50px;
+    text-align: center;
+
+
+}
